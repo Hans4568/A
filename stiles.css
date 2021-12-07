@@ -1,0 +1,7 @@
+body{
+    width: 100%;
+    justify-content: space-between;
+    background-image: url(../img/fondo.jpg);
+    background-position: center;
+    backgro-size: cover;
+    }
